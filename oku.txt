@@ -1,0 +1,1 @@
+IP ve port bilgilerinin ayrıştırarak yazmamızı sağlayan programdır
